@@ -19,7 +19,7 @@ My name is **WANG Minghao**, and I am a postgruaduate from **MSc in AI & Digital
 * Calligraphy
 
 #### Portfolio
-[Portfolio_WANG Minghao](https://github.com/tudousponge/hkbu_comm7330_2019/blob/master/Wang%20Minghao-Portfolio190706.pdf)
+[Portfolio_WANG Minghao](https://github.com/tudousponge/hkbu_comm7330_2019/blob/master/Wang_Minghao-Portfolio190706.pdf)
 
 
 
